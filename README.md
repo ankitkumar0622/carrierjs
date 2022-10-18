@@ -23,6 +23,8 @@
 - [Contribution](#contribution)
 - [License](#license)
 
+[![Twitter](https://img.shields.io/twitter/follow/fold_left?style=social)]
+
 ## Why CarrierJs
 
 Duplicate API requests are common and if dealt wisely, can help developers in creating a seamless user experience. In a scalable application, duplicate API requests can be problematic to the resources on a server, can affect the cost, and can interrupt performance.
